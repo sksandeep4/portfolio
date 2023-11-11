@@ -8,18 +8,19 @@ const Header = () => {
               <p className="nav-items">SANDEEP.DEV</p>
             </div>
             <div className="right-headnav">
-              <a className="nav-items white-text" href="#">
-                Home
+              <a className="nav-items white-text" href="#services">
+                Services
               </a>
-              <a className="nav-items white-text" href="#">
-                About
+              <a className="nav-items white-text" href="#skills">
+                Skills
               </a>
-              <a className="nav-items white-text" href="#">
+              <a className="nav-items white-text" href="#projects">
                 Projects
               </a>
-              <a className="nav-items white-text" href="#">
+              <a className="nav-items white-text" href="#footer">
                 Contact
               </a>
+              {/* <button onClick={toggleDarkMode}>Dark Mode</button> */}
             </div>
           </div>
         </nav>

@@ -47,28 +47,52 @@ a:hover {
 }
 .hero {
   color: aliceblue;
-  width: 80%;
+  width: 90%;
   height: 200px;
   margin: auto;
   /* margin-top: 100px; */
   /* display: inline-block; */
 }
-img {
+.propic {
   border-radius: 50%;
   float: left;
   width: 200px;
   height: 200px;
   margin-left: 60px;
 }
+.WIDContainer {
+  /* height: 100vh; */
+  padding: 10px;
+  width: 95%;
+  padding-bottom: 100px;
+}
+.WIDtext1 {
+  box-sizing: border-box;
+  display: inline;
+  padding: 50px 0 5px 0;
+  width: 740px;
+  float: left;
+  justify-content: center;
+  color: aliceblue;
+  text-align: left;
+  font-size: 1.125rem;
+}
+.WIDpic1 {
+  float: right;
+  width: 400px;
+  height: 250px;
+  margin-left: 60px;
+}
+
 .container {
-  /* width: 75%; */
-  /* height: 100%; */
-  padding-right: 400px;
-  padding-top: 70px;
+  /* display: inline-block; */
+  box-sizing: border-box;
+  padding: 50px 0 5px 0;
+  width: 750px;
   float: right;
   justify-content: center;
   color: aliceblue;
-  text-align: center;
+  text-align: left;
   font-size: 1.125rem;
 }
 .name-highlight {

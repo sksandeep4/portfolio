@@ -69,6 +69,7 @@ a:hover {
   width: 95%;
 }
 .WIDtext1 {
+  display: inline;
   float: left;
   justify-content: center;
   color: aliceblue;
