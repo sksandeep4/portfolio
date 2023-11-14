@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="hero py-10">
       <div className="image">
-        <img src={"./src/images.png"} alt="Sandeep.jpg" className="propic" />
+        <img src={"src/images.png"} alt="Sandeep.jpg" className="propic" />
       </div>
       <div className="container">
         <p /*style="float: right"*/>
