@@ -1,0 +1,11 @@
+.service {
+  width: 30%;
+  /* height: 200px; */
+  background-color: rgb(196, 253, 253);
+}
+.service:hover {
+  background-color: rgb(255, 255, 255);
+}
+.service h4 {
+  color: black;
+}

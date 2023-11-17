@@ -1,3 +1,4 @@
+import "./Services.css";
 const Services = () => {
   return (
     <div id="services" className="my-10 mt-40">

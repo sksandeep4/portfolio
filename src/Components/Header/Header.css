@@ -1,0 +1,41 @@
+.headnav {
+  background-color: #282c35;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #6fecdc;
+  width: 75%;
+  height: 100px;
+  margin: 25px auto 0;
+  /* display: inline-block; */
+}
+.right-headnav {
+  /* display: inline-block; */
+  padding-top: 8px;
+  font-weight: 400;
+  padding-right: 30px;
+  float: right;
+}
+.left-headnav {
+  /* display: inline-block; */
+  float: left;
+  height: 50px;
+}
+.left-headnav p {
+  font-size: 22px;
+  font-weight: bold;
+}
+.right-headnav a {
+  font-size: 15px;
+}
+a:hover {
+  padding-bottom: 3px;
+  border-bottom: solid 1.5px #6fecdc;
+}
+
+.nav-items {
+  text-transform: uppercase;
+  color: #6fecdc;
+  text-decoration: none;
+  margin: 10px 15px 10px 15px;
+  float: left;
+}

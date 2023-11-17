@@ -1,15 +1,10 @@
-// import { useState } from "react";
-
-import "./App.css";
-// import "./index.css";
-// import Navbar from "./Navbar";
-import Header from "./Header";
-import Footer from "./Footer";
-import Hero from "./Hero";
-// import WhatIDo from "./WID";
-import Services from "./Services";
-import Skills from "./Skills";
-import Projects from "./Projects";
+import "./index.css";
+import Header from "/src/Components/Header/Header.jsx";
+import Footer from "/src/Components/Footer/Footer.jsx";
+import Hero from "/src/Components/Hero/Hero.jsx";
+import Services from "/src/Components/Services/Services.jsx";
+import Skills from "/src/Components/Skills/Skills.jsx";
+import Projects from "/src/Components/Projects/Projects.jsx";
 
 function App() {
   return (

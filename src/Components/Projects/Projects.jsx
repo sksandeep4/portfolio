@@ -1,3 +1,4 @@
+import "./Projects.css";
 const Projects = () => {
   return (
     <div id="projects" className="mb-20">
