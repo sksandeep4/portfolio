@@ -1,4 +1,4 @@
-import "./index.css";
+import "/src/index.css";
 import Header from "/src/Components/Header/Header.jsx";
 import Footer from "/src/Components/Footer/Footer.jsx";
 import Hero from "/src/Components/Hero/Hero.jsx";

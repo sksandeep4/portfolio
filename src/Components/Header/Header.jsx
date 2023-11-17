@@ -9,16 +9,22 @@ const Header = () => {
               <p className="nav-items">SANDEEP.DEV</p>
             </div>
             <div className="right-headnav">
-              <a className="nav-items white-text" href="#services">
+              <a
+                className="nav-items hover-heading white-text"
+                href="#services"
+              >
                 Services
               </a>
-              <a className="nav-items white-text" href="#skills">
+              <a className="nav-items hover-heading white-text" href="#skills">
                 Skills
               </a>
-              <a className="nav-items white-text" href="#projects">
+              <a
+                className="nav-items hover-heading white-text"
+                href="#projects"
+              >
                 Projects
               </a>
-              <a className="nav-items white-text" href="#footer">
+              <a className="nav-items  hover-heading white-text" href="#footer">
                 Contact
               </a>
               {/* <button onClick={toggleDarkMode}>Dark Mode</button> */}
