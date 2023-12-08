@@ -27,7 +27,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="footer-links pb-2"
           >
-            <i className="fa-brands fa-twitter fa-xl text-white mx-6"></i>
+            <i className="fa-brands fa-x-twitter fa-xl text-white mx-6"></i>
           </a>
         </div>
         <div className="flex justify-end w-11/12">
