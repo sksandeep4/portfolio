@@ -36,7 +36,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="footer flex justify-center text-white pb-4">
-          © Made by Sandeep
+          &copy; Made by Sandeep
         </div>
       </div>
     </div>
